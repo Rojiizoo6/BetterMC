@@ -1,0 +1,2 @@
+# BetterMC
+ServerMods
