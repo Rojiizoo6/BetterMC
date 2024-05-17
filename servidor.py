@@ -59,6 +59,3 @@ else:
 
 
 
-
-
-	whitelist add R
